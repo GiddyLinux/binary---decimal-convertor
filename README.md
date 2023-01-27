@@ -12,7 +12,11 @@
 
 # Installation
 
-## Use the binary provided in releases
+### **Use the binary provided in releases**
+
+### Self Compilation
+This section is for people who want to compile the project themselves
+
  Requires [Rust](https://www.rust-lang.org/) and [Cargo](https://crates.io/) to compile
 
 ```sh
