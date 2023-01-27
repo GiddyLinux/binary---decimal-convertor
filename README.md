@@ -24,3 +24,18 @@ git clone https://github.com/GiddyLinux/denary-to-binary-convertor.git
 cd denary-to-binary-convertor
 cargo build --release --target <platform of choice>
 ```
+
+## Usage
+
+Below is an example demonstration of the program
+```sh
+$ ./binary-decimal-x86_64-unknown-linux-gnu
+Enter your number: 15
+That is 1111 in binary
+```
+Below is an example of an error possibly triggered by misusing the program
+```sh
+$ ./binary-decimal-x86_64-unknown-linux-gnu
+Enter your number: not a number
+Invalid Digit: Make sure you are entering only numbers
+```
