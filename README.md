@@ -4,13 +4,13 @@
 
 
 
-## Includes
+## Features
     - Error handling 
         - Position Overflow Error
         - Invalid Digit Error
     - Fully commented for clarity
 
-# Installation
+## Installation
 
 ### **Use the binary provided in releases**
 
