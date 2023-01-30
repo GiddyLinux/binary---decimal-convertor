@@ -6,7 +6,8 @@
 
 ## Features
     - Error handling 
-        - Position Overflow Error
+        - Positive Overflow Error
+        - Negative Overflow Error
         - Invalid Digit Error
     - Fully commented for clarity
 
